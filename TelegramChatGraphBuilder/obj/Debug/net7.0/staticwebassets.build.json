@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iUqiM7b4L0aH8COkEw53sNVPdzBv13Bh17mgf2casKk=",
+  "Hash": "KhiM8ChbvnV0gJ1Ra+lHMF0CDodGI92wgPyw0Qymuas=",
   "Source": "TelegramChatGraphBuilder",
   "BasePath": "_content/TelegramChatGraphBuilder",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "TelegramChatGraphBuilder\\wwwroot",
       "Source": "TelegramChatGraphBuilder",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "Pattern": "**"
     }
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise\\1.5.1\\staticwebassets\\vendors\\sha512.js"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TelegramChatGraphBuilder.styles.css",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TelegramChatGraphBuilder.styles.css",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "TelegramChatGraphBuilder.styles.css",
       "AssetKind": "All",
@@ -1344,13 +1344,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TelegramChatGraphBuilder.styles.css"
+      "OriginalItemSpec": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TelegramChatGraphBuilder.styles.css"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TelegramChatGraphBuilder.bundle.scp.css",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TelegramChatGraphBuilder.bundle.scp.css",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "TelegramChatGraphBuilder.bundle.scp.css",
       "AssetKind": "All",
@@ -1363,13 +1363,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TelegramChatGraphBuilder.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TelegramChatGraphBuilder.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\css\\site.css",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\favicon.png",
       "SourceId": "TelegramChatGraphBuilder",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\wwwroot\\",
       "BasePath": "_content/TelegramChatGraphBuilder",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

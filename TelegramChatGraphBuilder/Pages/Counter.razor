@@ -61,8 +61,6 @@
                     };
                 allDatasets.Add(dataset);
             }
-
-            // Добавление всех датасетов на график и обновление
             await lineChart.AddLabelsDatasetsAndUpdate(labels, allDatasets.ToArray());
             
         }
@@ -100,7 +98,7 @@
     {
         try
         {
-            string json = File.ReadAllText("JsonService/StaticData/result.json");
+            string json = File.ReadAllText("JsonService/StaticData/pudge.json");
             var options = new JsonSerializerOptions();
             options.Converters.Add(new CustomJsonConverter()); // Добавление конвертера
             data = JsonSerializer.Deserialize<RootObject>(json, options);

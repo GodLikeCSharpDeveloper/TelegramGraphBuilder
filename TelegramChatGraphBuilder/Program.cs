@@ -14,10 +14,11 @@ builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services
     .AddBlazorise(options =>
     {
-        
+        options.ProductToken = "D2F4-8468-0DBD-436B-A0AB-9559-7B35";
     })
     .AddBootstrapProviders()
-    .AddFontAwesomeIcons();
+    .AddFontAwesomeIcons()
+    ;
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

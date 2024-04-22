@@ -857,11 +857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder.csproj",
+      "projectUniqueName": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder.csproj",
       "projectName": "TelegramChatGraphBuilder",
-      "projectPath": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder.csproj",
+      "projectPath": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder.csproj",
       "packagesPath": "C:\\Users\\DaunV5.0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\obj\\",
+      "outputPath": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

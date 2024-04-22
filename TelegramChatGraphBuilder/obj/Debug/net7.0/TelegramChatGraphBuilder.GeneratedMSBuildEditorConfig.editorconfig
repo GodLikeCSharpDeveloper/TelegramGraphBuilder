@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TelegramChatGraphBuilder
 build_property.RootNamespace = TelegramChatGraphBuilder
-build_property.ProjectDir = C:\Users\DaunV5.0\Desktop\Newfolder(9)\TelegramChatGraphBuilder\TelegramChatGraphBuilder\
+build_property.ProjectDir = C:\Users\DaunV5.0\Desktop\Newfolder(9)\TelegramGraphBuilder\TelegramChatGraphBuilder\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DaunV5.0\Desktop\Newfolder(9)\TelegramChatGraphBuilder\TelegramChatGraphBuilder
+build_property.MSBuildProjectDirectory = C:\Users\DaunV5.0\Desktop\Newfolder(9)\TelegramGraphBuilder\TelegramChatGraphBuilder
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/App.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Pages/Counter.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Pages/FetchData.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Pages/Index.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Shared/SurveyPrompt.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/_Imports.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Shared/MainLayout.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ozvbd0vbmg
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Shared/NavMenu.razor]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9v895v1tkv
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Pages/Error.cshtml]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramChatGraphBuilder/TelegramChatGraphBuilder/Pages/_Host.cshtml]
+[C:/Users/DaunV5.0/Desktop/Newfolder(9)/TelegramGraphBuilder/TelegramChatGraphBuilder/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

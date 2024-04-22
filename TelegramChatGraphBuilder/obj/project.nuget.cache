@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M5DgWCeDHZeE+ZA8a3z6cd64LJjXGF1xV5MIefQpQF2XHEppliro9GmGfzcOVTW3kQemktyf+EJBlCDlmm4hKQ==",
+  "dgSpecHash": "fCYgJz53qHnmzi9tNf54fxlu2gfAROSqjMa+V7ab6WZl0Qhxe6rSlpfHiFFeRhPKRvoTtGIOtDJYPm1mvH/6yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder.csproj",
+  "projectFilePath": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramGraphBuilder\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise\\1.5.1\\blazorise.1.5.1.nupkg.sha512",
     "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise.bootstrap\\1.5.1\\blazorise.bootstrap.1.5.1.nupkg.sha512",
