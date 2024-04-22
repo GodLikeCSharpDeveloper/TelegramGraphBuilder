@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5DgWCeDHZeE+ZA8a3z6cd64LJjXGF1xV5MIefQpQF2XHEppliro9GmGfzcOVTW3kQemktyf+EJBlCDlmm4hKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DaunV5.0\\Desktop\\Newfolder(9)\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder\\TelegramChatGraphBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise\\1.5.1\\blazorise.1.5.1.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise.bootstrap\\1.5.1\\blazorise.bootstrap.1.5.1.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise.charts\\1.5.1\\blazorise.charts.1.5.1.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise.icons.fontawesome\\1.5.1\\blazorise.icons.fontawesome.1.5.1.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\blazorise.licensing\\1.2.0\\blazorise.licensing.1.2.0.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\lambda2js\\3.1.4\\lambda2js.3.1.4.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.17\\microsoft.aspnetcore.authorization.7.0.17.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.17\\microsoft.aspnetcore.components.7.0.17.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.17\\microsoft.aspnetcore.components.analyzers.7.0.17.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.17\\microsoft.aspnetcore.components.forms.7.0.17.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.17\\microsoft.aspnetcore.components.web.7.0.17.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.17\\microsoft.aspnetcore.metadata.7.0.17.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\microsoft.jsinterop\\7.0.17\\microsoft.jsinterop.7.0.17.nupkg.sha512",
+    "C:\\Users\\DaunV5.0\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

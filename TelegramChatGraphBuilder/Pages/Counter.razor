@@ -1,0 +1,116 @@
+﻿@page "/counter"
+@using Blazorise.Charts
+@using System.Text.Json
+@using System.Collections.Generic
+@using System.Globalization
+@using TelegramChatGraphBuilder.DiagramService
+@using TelegramChatGraphBuilder.JsonService
+@using TelegramChatGraphBuilder.Models
+
+<button class="btn btn-primary" @onclick="@(async () => await HandleRedraw())">Redraw</button>
+
+<LineChart @ref="lineChart" TItem="double" />
+@code {
+    LineChart<double> lineChart;
+    RootObject data = new();
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        GetJson();
+        if (firstRender)
+        {
+            await HandleRedraw();
+        }
+    }
+
+    async Task HandleRedraw()
+    {
+        try
+        {
+            await lineChart.Clear();
+
+            // Получение отсортированных и сгруппированных данных
+            var dataGrouped = await GetSortedAndGroupedData();
+
+            // Получение списка уникальных месяцев для оси X
+            var labels = dataGrouped.Select(x => x.YearMonth).Distinct().ToArray();
+
+            // Создание датасетов для каждого отправителя
+            var allDatasets = new List<LineChartDataset<double>>();
+            foreach (var senderGroup in dataGrouped.GroupBy(x => x.From))
+            {
+                var senderDatas = new List<double>();
+
+                // Заполнение данных о количестве сообщений для каждого месяца
+                foreach (var label in labels)
+                {
+                    var count = senderGroup.FirstOrDefault(x => x.YearMonth == label)?.Count ?? 0;
+                    senderDatas.Add(count);
+                }
+
+                // Создание датасета для отправителя
+                var dataset = new LineChartDataset<double>
+                    {
+                        Label = senderGroup.Key,
+                        Data = senderDatas,
+                        BackgroundColor = backgroundColors[allDatasets.Count % backgroundColors.Count],
+                        BorderColor = borderColors[allDatasets.Count % borderColors.Count],
+                        Fill = true,
+                        PointRadius = 2,
+                        CubicInterpolationMode = "monotone",
+                    };
+                allDatasets.Add(dataset);
+            }
+
+            // Добавление всех датасетов на график и обновление
+            await lineChart.AddLabelsDatasetsAndUpdate(labels, allDatasets.ToArray());
+            
+        }
+        catch
+        {
+            throw;
+        }
+    }
+
+    async Task<List<DiagramMessageModel>> GetSortedAndGroupedData()
+    {
+        var dataGrouped = new DiagramServiceGrouper();
+        var groupedData = await dataGrouped.GroupMessagesByDateAndSender(data.Messages);
+
+        // Преобразование строковых YearMonth в DateTime
+        foreach (var date in groupedData)
+        {
+            if (DateTime.TryParseExact(date.YearMonth, new string[] { "yyyy-MM", "yyyy-M" }, CultureInfo.InvariantCulture, DateTimeStyles.None, out var dateTime))
+            {
+                date.DateTime = dateTime;
+            }
+        }
+
+        // Сортировка по дате
+        groupedData = groupedData.OrderBy(x => x.DateTime).ToList();
+
+        return groupedData;
+    }
+
+
+    List<string> backgroundColors = new List<string> { ChartColor.FromRgba(255, 99, 132, 0.2f), ChartColor.FromRgba(54, 162, 235, 0.2f), ChartColor.FromRgba(255, 206, 86, 0.2f), ChartColor.FromRgba(75, 192, 192, 0.2f), ChartColor.FromRgba(153, 102, 255, 0.2f), ChartColor.FromRgba(255, 159, 64, 0.2f) };
+    List<string> borderColors = new List<string> { ChartColor.FromRgba(255, 99, 132, 1f), ChartColor.FromRgba(54, 162, 235, 1f), ChartColor.FromRgba(255, 206, 86, 1f), ChartColor.FromRgba(75, 192, 192, 1f), ChartColor.FromRgba(153, 102, 255, 1f), ChartColor.FromRgba(255, 159, 64, 1f) };
+
+    public void GetJson()
+    {
+        try
+        {
+            string json = File.ReadAllText("JsonService/StaticData/result.json");
+            var options = new JsonSerializerOptions();
+            options.Converters.Add(new CustomJsonConverter()); // Добавление конвертера
+            data = JsonSerializer.Deserialize<RootObject>(json, options);
+            // Дальнейшая обработка data
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex.Message}");
+            throw;
+        }
+    }
+
+}
