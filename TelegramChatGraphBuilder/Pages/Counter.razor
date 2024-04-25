@@ -39,6 +39,7 @@
             var allDatasets = new List<LineChartDataset<double>>();
             foreach (var senderGroup in dataGrouped.GroupBy(x => x.From))
             {
+                var full = senderGroup.Sum(x => x.Count);
                 var senderDatas = new List<double>();
 
                 // Заполнение данных о количестве сообщений для каждого месяца
@@ -62,7 +63,7 @@
                 allDatasets.Add(dataset);
             }
             await lineChart.AddLabelsDatasetsAndUpdate(labels, allDatasets.ToArray());
-            
+
         }
         catch
         {
@@ -98,10 +99,12 @@
     {
         try
         {
-            string json = File.ReadAllText("JsonService/StaticData/pudge.json");
+            string json = File.ReadAllText("JsonService/StaticData/result.json");
             var options = new JsonSerializerOptions();
             options.Converters.Add(new CustomJsonConverter()); // Добавление конвертера
             data = JsonSerializer.Deserialize<RootObject>(json, options);
+            var Vikas = data.Messages.Where(x => x.From == "Вика").ToList();
+            var Yura = data.Messages.Where(x => x.From == "Charles Xavier").ToList();
             // Дальнейшая обработка data
         }
         catch (Exception ex)

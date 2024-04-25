@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelegramChatGraphBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7df69698d9934e9b8dccb0eabcebeb47a554c820")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86189799a3919f7b113c6e9deac6b7585b633913")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelegramChatGraphBuilder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelegramChatGraphBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
